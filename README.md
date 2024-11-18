@@ -1,6 +1,6 @@
 # Maps Kansi
 
-Simples aplicativo Flutter Android para pesquisa e registro de CEP's. 
+Simples aplicativo Flutter Android para pesquisa e registro de CEP's. Apk pode ser baixado [aqui](/app-release.apk).
 
 Um aplicativo de mapa, que ao buscar determinado CEP, mostra a localização no mapa, com opção de salvar endereço para uso futuro. 
 
