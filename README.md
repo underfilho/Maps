@@ -12,6 +12,7 @@ O aplicativo foi desenvolvido utilizando a versão 3.19.1 do Flutter.
 Para visualização do mapa foi utilizado o package [google_maps_flutter](https://pub.dev/packages/google_maps_flutter), como a funcionalidade de pesquisa de endereços e CEP's da google não é gratuita, foi utilizada a API [Brasil API](https://brasilapi.com.br/) para busca dos CEP's. Para gerência de estados, [cubit (Bloc)](https://pub.dev/packages/flutter_bloc) foi a tecnologia escolhida, para injeção de dependências, o package [get_it](https://pub.dev/packages/get_it). Envolvendo dados, dois packages foram utilizados, [Dio](https://pub.dev/packages/dio) para requisições HTTP e, para banco de dados local, [sqflite](https://pub.dev/packages/sqflite), o SQLite para Flutter, que trata de dados relacionais.
 
 ## Estrutura das pastas
+Dentro da pasta [lib](/lib/) temos a estrutura de pastas abaixo para organização do projeto.
 
 ```
 app
